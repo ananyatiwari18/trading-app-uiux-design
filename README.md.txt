@@ -18,7 +18,7 @@ Tools Used:
 
 Project Screenshots:
 
--Screenshots are available in the screenshots folder.
+-Screenshots are available in all uploaded folder.
 
 Figma Prototype Link:
 
